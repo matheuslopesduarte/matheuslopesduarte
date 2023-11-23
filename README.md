@@ -9,3 +9,9 @@ Eu sabo:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/ClaudioAnzini/)
+<p><img src="https://profile-counter.glitch.me/{ClaudioAnzini}/count.svg" /></p> 
+
+</div>

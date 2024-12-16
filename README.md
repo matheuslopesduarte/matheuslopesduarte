@@ -2,23 +2,23 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Claudio+Anzini+Neto;I'm+17+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://github/ClaudioAnzini/)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Claudio+Anzini+Neto;I'm+17+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://github/matheuslopesduarte/)&nbsp;
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjyx4_WYgDuADAl4p3mdfUg)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theanzini?igshid=NzZlODBkYWE4Ng==)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudioanzinineto123@gmail.com)&nbsp;
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab)](https://gitlab.com/ClaudioAnzini)&nbsp;
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab)](https://gitlab.com/matheuslopesduarte)&nbsp;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-anzini-neto-8a8201222/)&nbsp;
 
-<div href="https://github.com/ClaudioAnzini">
+<div href="https://github.com/matheuslopesduarte">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioAnzini&show_icons=true&theme=radical"/>&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAnzini&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/ClaudioAnzini/ClaudioAnzini"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuslopesduarte&show_icons=true&theme=radical"/>&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslopesduarte&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/matheuslopesduarte/matheuslopesduarte"/>
 
 ###
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioAnzini&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=matheuslopesduarte&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 </div>
@@ -31,10 +31,10 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClaudioAnzini&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/ClaudioAnzini/ClaudioAnzini)&nbsp;
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheuslopesduarte&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/matheuslopesduarte/matheuslopesduarte)&nbsp;
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=ClaudioAnzini&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=matheuslopesduarte&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 </div>
@@ -65,8 +65,8 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/ClaudioAnzini/)
-<p><img src="https://profile-counter.glitch.me/{ClaudioAnzini}/count.svg" /></p> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/matheuslopesduarte/)
+<p><img src="https://profile-counter.glitch.me/{matheuslopesduarte}/count.svg" /></p> 
 
 </div>
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>

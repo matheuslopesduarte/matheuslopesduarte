@@ -18,7 +18,7 @@
 
 [![Grafico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=matheuslopesduarte&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/matheuslopesduarte/matheuslopesduarte)&nbsp;
 
-![Trofeus](https://github-profile-trophy.vercel.app/?username=matheuslopesduarte&theme=dracula&row=1&no-bg=true&column=3&margin-w=15&margin-h=15)
+![Trofeus](https://github-profile-trophy.vercel.app/?username=matheuslopesduarte&theme=dracula&row=1&no-bg=true&column=4&margin-w=15&margin-h=15)
 
 
 </div>

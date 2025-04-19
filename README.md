@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/matheuslopesduarte/count.svg" />
+  <img src="https://profile-counter.glitch.me/{matheuslopesduarte}/count.svg" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=120&section=footer"/>

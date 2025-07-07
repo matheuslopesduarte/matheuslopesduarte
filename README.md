@@ -17,7 +17,7 @@
 - 📍 &nbsp;&nbsp;Joinville - SC  
 - 🎓 Estudante de INFO no [IFC Campus Araquari](https://araquari.ifc.edu.br/)  
 - 💼 Desenvolvedor Web Fullstack  
-- 🌐 E-mail: `matheus.duarte@mlopes.xyz` | `matheus@mlopes.xyz`
+- 🌐 E-mail: `matheus.duarte@estudantes.ifc.edu.br` | `matheus@mlopes.xyz`
 
 ---
 

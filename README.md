@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/matheus.duarte@estudantes.ifc.edu.br-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=dc3545)](mailto:matheus@mlopes.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/matheus-lopes-duarte-7bb067293/)
-[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=2596be)](https://mlopes.xyz)
+<!-- [![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=2596be)](https://mlopes.xyz) -->
 
 </div>
 

@@ -72,18 +72,18 @@
 
 
 ### 📰 MockNews
-News portal built with PHP + MySQL
+News portal built with PHP + MySQL<br>
 Load balancing with Nginx and Apache
 
 
 ### 🛒 MarketHub
-Marketplace platform (Vue 3 + Laravel)
-SSO (OAuth2), Stripe integration and WebSockets
+Marketplace platform (Vue 3 + Laravel)<br>
+SSO (OAuth2), Stripe integration and WebSockets<br>
 Deployed on AWS; EC2 + S3 Storage
 
 
 ### 📚 LivrariaDjango
-REST API built with Django REST Framework
+REST API built with Django REST Framework<br>
 Cloudinary + Supabase deployment
 
 
@@ -100,15 +100,15 @@ Infrastructure administration and continuous improvement of production servers a
 
 
 ### 🎓 NextClass
-Academic platform (Laravel + Vue 3)
-SSO OAuth2 + WebSockets + WebRTC (P2P / Janus Gateway)
+Academic platform (Laravel + Vue 3)<br>
+SSO OAuth2 + WebSockets + WebRTC (P2P / Janus Gateway)<br>
 Infrastructure with Coolify + MinIO
 
 
 ### 🏭 Fabroku
-IFC's "Fábrica de Software" – Enterprise-grade PaaS for student application deployment at IFC Campus Araquari
-Built with Django + Vue 3 over a Dokku-based container orchestration layer
-Git-driven CI/CD workflow with isolated multi-tenant environments
+IFC's "Fábrica de Software" – Enterprise-grade PaaS for student application deployment at IFC Campus Araquari<br>
+Built with Django + Vue 3 over a Dokku-based container orchestration layer<br>
+Git-driven CI/CD workflow with isolated multi-tenant environments<br>
 Reverse proxy, SSL automation and production-ready infrastructure standards
 
 ---

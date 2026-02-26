@@ -21,12 +21,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuslopesduarte&theme=radical&ring=007bff&fire=007bff&currStreakLabel=007bff"/>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheuslopesduarte&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.zcy.dev/api/top-langs?username=matheuslopesduarte&layout=donut&theme=radical&title_color=007bff"/>
-
-</p>
-
 ---
 
 ## 👨‍💻 About Me

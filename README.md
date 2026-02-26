@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Graduated in **Técnico em Informática para Internet – IFC Campus Araquari**
+🎓 Technical Degree in **Internet Systems** (Técnico em informática para internet) **– IFC**
 💻 Fullstack Developer with strong focus on **Infrastructure, Security and DevOps**
 🏗 Experience building and maintaining real-world systems in production environments
 🔐 Background in authentication systems, Linux servers and secure application architecture

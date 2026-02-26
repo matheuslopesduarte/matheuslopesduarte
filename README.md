@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007bff&size=35&center=true&vCenter=true&width=1000&pause=1200&speed=40&lines=HELLO,+I'm+Matheus+Lopes+Duarte;Full+Stack+Developer;Technical+Degree+in+Internet+Systems;Welcome+to+my+profile!+🚀)]()
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007bff&size=35&center=true&vCenter=true&width=1000&pause=1200&speed=40&lines=%20;Infrastructure+%26+Network+Engineer;Federal+Institute+of+Santa+Catarina+(IFC);%20)]()
@@ -25,11 +24,11 @@
 
 ## 👨‍💻 About Me
 
-🎓 Graduated in **Técnico em Informática para Internet – IFC Campus Araquari**  
-💻 Fullstack Developer with strong focus on **Infrastructure, Security and DevOps**  
-🏗 Experience building and maintaining real-world systems in production environments  
-🔐 Background in authentication systems, Linux servers and secure application architecture  
-🚀 Always learning and improving performance, scalability and security  
+🎓 Graduated in **Técnico em Informática para Internet – IFC Campus Araquari**
+💻 Fullstack Developer with strong focus on **Infrastructure, Security and DevOps**
+🏗 Experience building and maintaining real-world systems in production environments
+🔐 Background in authentication systems, Linux servers and secure application architecture
+🚀 Always learning and improving performance, scalability and security
 
 ---
 
@@ -60,54 +59,66 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
 
-🔹 Virtualization and cluster management  
-🔹 DNS and mail server configuration  
-🔹 Authentication systems (OAuth2 / OIDC / LDAP / Kerberos)  
-🔹 Network IPv4 and IPv6 administration and routing  
-🔹 Observability and monitoring with Grafana  
-🔹 Server provisioning and out-of-band management  
+🔹 Virtualization and cluster management
+🔹 DNS and mail server configuration
+🔹 Authentication systems (OAuth2 / OIDC / LDAP / Kerberos)
+🔹 Network IPv4 and IPv6 administration and routing
+🔹 Observability and monitoring with Grafana
+🔹 Server provisioning and out-of-band management
 
 ---
 
 ## 🏆 Highlight Projects
 
-### 📰 MockNews
-News portal built with PHP + MySQL  
-Load balancing with Nginx and Apache  
 
-### 🛒 MarketHub (Hackathon – 3rd Place 🥉)
-Marketplace platform (Vue 3 + Laravel)  
-SSO (OAuth2), Stripe integration and WebSockets  
-Deployed on AWS  
+### 📰 MockNews
+News portal built with PHP + MySQL
+Load balancing with Nginx and Apache
+
+
+### 🛒 MarketHub
+Marketplace platform (Vue 3 + Laravel)
+SSO (OAuth2), Stripe integration and WebSockets
+Deployed on AWS; EC2 + S3 Storage
+
 
 ### 📚 LivrariaDjango
-REST API built with Django REST Framework  
-Cloudinary + Supabase deployment  
+REST API built with Django REST Framework
+Cloudinary + Supabase deployment
+
 
 ### 🏢 fabricaServers
 Infrastructure administration and continuous improvement of production servers and datacenter environment, including:
 
-- Virtualization and cluster management  
-- Datacenter infrastructure administration  
-- DNS and internal services configuration  
-- Corporate authentication environment  
-- Network IPv4 and IPv6 administration and routing  
-- Monitoring and observability stack  
-- Hardware lifecycle management and out-of-band administration (iDRAC / OOBM)  
+- Virtualization and cluster management
+- Datacenter infrastructure administration
+- DNS and internal services configuration
+- Corporate authentication environment
+- Network IPv4 and IPv6 administration and routing
+- Monitoring and observability stack
+- Hardware lifecycle management and out-of-band administration (iDRAC / OOBM)
+
 
 ### 🎓 NextClass
-Academic platform (Laravel + Vue 3)  
-SSO OAuth2 + WebSockets + WebRTC  
-Infrastructure with Coolify + MinIO  
+Academic platform (Laravel + Vue 3)
+SSO OAuth2 + WebSockets + WebRTC (P2P / Janus Gateway)
+Infrastructure with Coolify + MinIO
+
+
+### 🏭 Fabroku
+IFC's "Fábrica de Software" – Enterprise-grade PaaS for student application deployment at IFC Campus Araquari
+Built with Django + Vue 3 over a Dokku-based container orchestration layer
+Git-driven CI/CD workflow with isolated multi-tenant environments
+Reverse proxy, SSL automation and production-ready infrastructure standards
 
 ---
 
 ## 📚 Continuous Improvement
 
-🔐 Application Security  
-☁ Cloud Architecture  
-⚡ High Availability Systems  
-🧠 Distributed Systems  
+🔐 Application Security
+☁ Cloud Architecture
+⚡ High Availability Systems
+🧠 Distributed Systems
 
 ---
 
